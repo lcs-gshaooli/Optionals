@@ -11,6 +11,12 @@
  
  */
 // Type the code below this line...
+var x: Int?
+var y: Int?
 
-
+if let noNilX = y {
+    noNilX * noNilX
+} else {
+    print("cannot compute, x, y, or both are nil.")
+}
 //: [Next](@next)

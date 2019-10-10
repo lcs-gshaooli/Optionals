@@ -26,7 +26,6 @@ if let day = dayOfWeek {
 } else {
     print ("No day was provided")
 }
-
 /*:
  Line 24 is the key.
  
